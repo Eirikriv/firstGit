@@ -9,4 +9,9 @@ public class Ord {
 	public boolean isTrue(){
 		return true;
 	}
+
+	public boolean isTrue2(){
+		return true;
+	}
+	
 }
